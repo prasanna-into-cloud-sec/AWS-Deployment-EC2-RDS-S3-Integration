@@ -8,6 +8,7 @@ Steps taken:
 5. Write python script and store it into EC2 Instance
 
 
+Details:
 1. EC2 Instance Setup:
 Created an EC2 Instance with Ubuntu AMI.
 Installed all required packages and libraries for the project.
